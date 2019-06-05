@@ -27,7 +27,8 @@
         <activity android:name=".MatyaStyle" />
         <activity android:name=".HoneyStyle" />
         <activity android:name=".JuiceStyle" />
-        <activity android:name=".OkinawaStyle"></activity>
+        <activity android:name=".OkinawaStyle" />
+        <activity android:name=".Result"></activity>
     </application>
 
 </manifest>
