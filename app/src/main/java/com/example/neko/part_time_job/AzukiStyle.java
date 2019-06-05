@@ -19,6 +19,10 @@ import static com.example.neko.part_time_job.Latte.ICE;
 
 public class AzukiStyle extends AppCompatActivity {
 
+
+
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
